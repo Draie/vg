@@ -1,0 +1,101 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+*{
+    font-family: 'Montserrat', sans-serif;
+    background-color: #FEF2F4;
+    font-size: 1.2rem;
+}
+
+
+.vagaccess{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 3rem;
+    color: #D14D72;
+}
+
+nav ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    list-style: none;
+    gap: 8rem;
+   
+}
+
+nav ul .liList a{
+   display: flex;
+   text-decoration: none;
+   color: #D14D72;
+   font-weight: bolder;
+   background-color: #FEF2F4;
+   border-radius: 30px;
+   padding: 0.7rem;
+   
+}
+nav ul .liList a:hover{
+    background-color: #D14D72;
+    color: white;
+}
+
+
+.liList {
+    display:flex;
+    justify-items: space-evenly;
+    flex-direction:row;
+    gap: 2rem;
+    align-self: center;
+   
+   
+
+}
+
+
+/*______________________________ FIN DE LA NAV BAR */
+
+
+
+
+
+
+/*__________________________DEBUT HEROBANNER ___________________________*/
+
+section{
+
+    display: flex;
+    width: 95vw;
+    justify-self: center;
+    flex-direction: column;
+}
+.herobanner{
+
+    height: 8rem;
+    max-width: 50vw;
+    background-color: #D14D72;
+    border-radius: 30px;
+
+}
+.herobanner img {
+    
+    width: 500px;
+    height: 500px;
+
+}
+
+.Illustration2 {
+ color: white;
+ font-size: 60px;
+ font-family: 'Montserrat', sans-serif;
+ font-weight: 700;
+ background-color: #D14D72;
+ font-size:1rem ;
+ padding: 0.7rem;
+ border-radius:30px ;
+ max-width: 175px;
+ z-index: 1;
+ 
+
+}

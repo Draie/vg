@@ -1,0 +1,14 @@
+<svg width="369" height="96" viewBox="0 0 369 96" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="369" height="96" rx="20" fill="#D14D72"/>
+<g opacity="0.8" filter="url(#filter0_b_425_5)">
+<text fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" font-weight="bold" letter-spacing="0em"><tspan x="67.5762" y="68.5078">The look</tspan></text>
+</g>
+<defs>
+<filter id="filter0_b_425_5" x="64.7773" y="19.9707" width="241.262" height="53.6152" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feGaussianBlur in="BackgroundImageFix" stdDeviation="2"/>
+<feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_425_5"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_425_5" result="shape"/>
+</filter>
+</defs>
+</svg>
